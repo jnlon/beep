@@ -11,3 +11,12 @@ All options from the original, both short and long, have been implemented. This
 means you can [play the piano](https://github.com/watsyurname529/linuxbeeppiano).
 
 License is 3-clause BSD.
+
+### Building
+
+Execute `make` to generate the `beep` executable, then `make install` as root
+to install the binary.
+
+### Usage
+
+For usage details, see the manual for the original `beep(1)`.
